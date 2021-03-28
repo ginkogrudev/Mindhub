@@ -1,0 +1,17 @@
+p {
+    font-size: 18px;
+    color:blue;
+    width: 900px;
+    display: inline-block;
+}
+
+h1 {
+    font-size: 46px;
+    font-family: 'Courier New', Courier, monospace;
+    color:#fdcd46;
+}
+
+body {
+    background-image: url(https://mindhub.bg/uploads/files/TAF/Entry%20Level/HTML%20%26%20CSS/banner.png
+    );
+}
