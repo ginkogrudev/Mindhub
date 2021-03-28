@@ -1,6 +1,5 @@
 p {
     font-size: 18px;
-    color:blue;
     width: 900px;
     display: inline-block;
 }
@@ -8,5 +7,4 @@ p {
 h1 {
     font-size: 46px;
     font-family: 'Courier New', Courier, monospace;
-    color:#fdcd46;
 }
