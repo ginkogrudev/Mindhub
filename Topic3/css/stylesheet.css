@@ -1,6 +1,13 @@
+* {
+    text-align: center;
+}
+
+body {
+    background-color: chartreuse;
+}
+
 p {
     font-size: 18px;
-    width: 900px;
 }
 
 h1 {
