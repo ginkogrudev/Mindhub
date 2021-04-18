@@ -1,16 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500;600;700&family=Poiret+One&display=swap');
+
 * {
     text-align: center;
 }
 
 body {
-    background-color: chartreuse;
+    background-color: rgb(240,253,253);
+    color: rgb(129,169,177);
+    font-family: 'Poiret One', cursive;
+}
+
+h1 {
+    color: #FFFAE5;
+    font-size: 48px;
+    font-weight: 700;
+    font-family: 'Comforta', cursive;
+    letter-spacing: 6px;
+    text-shadow: 6px 6px 5px rgb(145, 95, 202);
 }
 
 p {
     font-size: 18px;
-}
-
-h1 {
-    font-size: 46px;
-    font-family: 'Courier New', Courier, monospace;
 }
