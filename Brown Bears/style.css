@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto&display=swap');
+
+h1,h2 {
+    font-family: 'Pacifico', cursive;
+    color:white;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+body ,html {
+    background-color: #FFE500;
+    height: 100%;
+    margin:0px;
+    padding: 0px;
+}
+
+.menu {
+    display: inline;
+}
+
+.overview p{
+    min-height: 10%;
+    text-align: left;
+}
+
+.para {
+    margin: 0px;
+    padding: 0px;
+    background-image: url(https://media.gettyimages.com/photos/brown-bear-picture-id104278480?s=2048x2048);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+.parahod {
+    margin: 0px;
+    padding: 0px;
+    background-image: url(https://media.gettyimages.com/photos/germany-bavarian-forest-national-park-animal-openair-site-neuschoenau-picture-id946916164?s=2048x2048);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+.features {
+}

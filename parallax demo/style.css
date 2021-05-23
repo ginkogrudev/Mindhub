@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Zen+Dots&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+.parallax {
+    background-image: url(https://i.pinimg.com/originals/f6/3d/4b/f63d4b06c989dfe6c1039497441115b3.jpg);
+
+    min-height: 1000px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax2 {
+    background-image: url(https://wallpaper.dog/large/17169612.png);
+
+    min-height: 700px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax3 {
+    background-image: url(https://i.pinimg.com/originals/9f/77/02/9f77024d7233d8d68f344cad23f64408.jpg);
+
+    min-height: 700px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p-text {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    font-family: 'Zen Dots', cursive;
+}
+
+.border {
+    background-color: #111;
+    color: #fff;
+    padding: 20px;
+}
+
+.light {
+    background-color: #f4f4f4;
+    color: #666;
+    text-align: center;
+    padding: 50px 80px;
+}
+
+.dark {
+    background-color: #282e34;
+    color: #ddd;
+    text-align: center;
+    padding: 50px 80px;
+}
